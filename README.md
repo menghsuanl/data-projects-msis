@@ -1,3 +1,3 @@
 # MSIS-projects
 
-Includes projects and assignments I've done in the MSIS program.
+Includes projects I've done in the MSIS program.
