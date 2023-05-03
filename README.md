@@ -1,3 +1,3 @@
 # MSIS-projects
 
-Includes projects I've done in the MSIS program(521, 522)
+This repo includes data projects I've done in the UW MSIS 23' program.
